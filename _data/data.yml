@@ -7,32 +7,29 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Daniel Ernesto García Febres
+    tagline: Web Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: garciafebresd@gmail.com
+    phone: +569 96239465
+    website: garciafebresd.github.io/ #do not add http://
+    linkedin: garciafebresd
+    github: garciafebresd
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: garciafebresd
+    twitter: '@garciafebres'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Basic
 
     interests:
       - item: Climbing
@@ -54,9 +51,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
+    - degree: Computer Science Engineer
       university: University of London
-      time: 2011 - 2012
+      time: 2006 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,43 +74,62 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Developer
+      time: 2016 - Present
+      company: GPS Position, Santiago de Chile
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+        Desarrollo de aplicaciones web para monitoreo de flotas de vehículos 
+        a través de GPS. Diseño, Generación de alarmas y reportes definidos 
+        por los clientes, creación de tareas programadas, QA, Normalización 
+        de Base de datos y creación de objetos (tablas,view,functions,store procedure), 
+        optimización de consultas. 
+        Tecnologías empleadas: 
+          - PHP, HTML5, JQuery, Angular, Bootstrap, Shell Script, 
+          - PostgreSQL, MSSQL, MySQL
+          - API REST, RAML, ROR.
+          - Google Maps API and OSM
+
+    - role: Database Administrator
       time: 2014 - 2015
-      company: Google, London
+      company: Tribunal Supremo de Justicia, Caracas - Venezuela
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Administrador de Base de Datos. Entre las funciones que desarrollaba se 
+        encuentran la creación de datafiles y tablespace, optimización de consultas, 
+        creación de objetos de base de datos (procedimientos almacenados, vistas, funciones), 
+        Generación  de Scripts para migración de base de datos entre diferentes DBMS, 
+        solución de incidencias, administración de cluster, replicación, creación diseño y despliegue 
+        de bases de datos. Cumplimiento de guardias y soporte a la plataforma vía VPN.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Database Administrator
+      time: 2014 - 2014
+      company: HUAWEI, Caracas - Venezuela
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Especialista de Base de Datos en el Centro de Soporte y Servicios de Movistar Venezuela. 
+        Formaba parte del equipo de soporte de segundo nivel. Mis principales responsabilidades 
+        eran el monitoreo de la plataforma de base de datos y garantizar el correcto funcionamiento 
+        de las mismas, resolver incidencias, aplicar troubleshooting o paliativos según lo requerido, 
+        creación de tablespace y datafiles, generación de reportes.
+        Tecnologías empleadas: 
+          - ORACLE 9i 10G 11G (RAC, Cluster, IVR, OLTP, Datamart, Grid Control)
+          - ORACLE Linux
+          - Unix
+          - RHEL
+          - MS SQL Server (2008, 2012)
+
+    - role: Junior Veveloper
+      time: 2012 - 2013
+      company: SITVEN
+      details: |
+        Desarrollador y analista de sistemas para instituciones bancarias. 
+        Entre las principales actividades que realizaba se encuentra el desarrollo de soluciones, 
+        modelado y procesamiento de datos, análisis de requerimientos, reuniones con clientes.
+        Forme parte del proyecto de Gestión de solicitudes de Tarjetas de Crédito  para el 
+        Banco Bicentenario, el cual consistía en la automatización del proceso de solicitud, 
+        evaluación y aprobación de tarjetas de crédito.
+        Tecnologías: 
+          - JAVA, HTML, JavaScript, JQuery
+          - PostgreSQL, Stored Procedures, Linux.
 projects:
     title: Projects
     intro: >
@@ -167,23 +183,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
         level: 95%
+
+      - name: Git
+        level: 90%
 
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: HTML5 & CSS
+        level: 85%
+
+      - name: Laravel
+        level: 70%
+
+      - name: Angular
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
