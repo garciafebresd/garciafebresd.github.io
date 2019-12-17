@@ -116,7 +116,7 @@ projects:
         tagline: "App que ofrece servicios a domicilio de lavandería, limpieza, delivery y mudanzas."
         
       - title: Route
-        link: "#https://app.position.cl/route/home"
+        link: "https://app.position.cl/route/home"
         tagline: "Es una plataforma para el control de entregas a través de una app. Permite la optimización de rutas y cargas de acuerdo a una flota de móviles y sus características. La plataforma cuenta con un Dasboard de gestión y seguimiento de las rutas, tiene un módulo para la carga masiva de entregas, integración a través de WebService, ofrece un detalle del cumplimiento de las entregas y una serie de reportes que nos permiten conocer la eficiencia en el reparto de productos."
 
       - title: Plataforma AVL
