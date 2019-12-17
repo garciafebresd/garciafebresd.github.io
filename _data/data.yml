@@ -120,19 +120,19 @@ projects:
         tagline: "Es una plataforma para el control de entregas a través de una app. Permite la optimización de rutas y cargas de acuerdo a una flota de móviles y sus características. La plataforma cuenta con un Dasboard de gestión y seguimiento de las rutas, tiene un módulo para la carga masiva de entregas, integración a través de WebService, ofrece un detalle del cumplimiento de las entregas y una serie de reportes que nos permiten conocer la eficiencia en el reparto de productos."
 
       - title: Plataforma AVL
-        link: "#https://app.position.cl/plataforma/"
+        link: "https://app.position.cl/plataforma/"
         tagline: "Seguimiento y control de flotas a través de GPS. Este sistema permite el monitoreo de la conducción y temperatura del móvil, asignación de conductores, administración de alarmas de conducción, velocidad, botón de pánico y una amplia variedad de eventos soportados por dispositivos instalados en el vehículo."
 
       - title: Parkiu
-        link: "#https://www.parkiu.cl/"
+        link: "https://www.parkiu.cl/"
         tagline: "Sistema para el pago de estacionamiento a través de una app validando código QR sin necesidad de efectivo ni tickets (desarrollo del sitio web y el modulo donde los usuarios pueden ver sus consumos y administrar sus medios de pago)."
 
       - title: JustCode
-        link: "#http://justcode.cl/"
+        link: "http://justcode.cl/"
         tagline: "Sitio web donde se ofrecen servicios de desarrollo y asesoría de software a la medida."
 
       - title: Reaction
-        link: "#http://www.position.cl/reaction/"
+        link: "http://www.position.cl/reaction/"
         tagline: "Plataforma web para asignación de actividades utilizando como base la cercanía del usuario al lugar donde se realizara la tarea. Sistema útil para empresas que proveen servicios de grúas o ambulancias."
 
 skills:
